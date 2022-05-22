@@ -1,0 +1,28 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Command-Line application that dynamically generates a professional README.md file from a users's input. Includes what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javier Brizuela",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ticonetster/README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    ".md",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/ticonetster/README-Generator/issues"
+  },
+  "homepage": "https://github.com/ticonetster/README-Generator#readme"
+}
