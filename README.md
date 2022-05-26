@@ -17,6 +17,9 @@
    npm i
    ## Usage
    node index.js
+   
+
+[video](https://user-images.githubusercontent.com/19826920/170410601-61ad3f4b-e1ea-4837-8476-8153dbb847c6.mp4)
    ## Tests 
    test index.js
    ## License 
